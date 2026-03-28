@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "マイライフ",
+  "base_artist": "CY8ER",
+  "createdAt": "2026-03-28T00:44:17.629604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイライフ",
+      "artist": "Good Morning America",
+      "has_synced": false,
+      "path": "select/01_マイライフ_Good_Morning_America.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マイライフ",
+      "artist": "CY8ER",
+      "has_synced": false,
+      "path": "select/pl_01_マイライフ_CY8ER.txt"
+    }
+  ]
+}
